@@ -16,7 +16,7 @@
                 android:id="@+id/textViewName"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/name" />
+                android:hint="@string/name" />
             <EditText
                 android:id="@+id/editTextName"
                 android:layout_width="match_parent"
